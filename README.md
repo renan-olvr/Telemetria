@@ -18,12 +18,12 @@ A sua utilização se dá pelo fato de possuir um grande alcance, podendo chegar
 
 O módulo com entrada USB é conectado a algum computador, enquanto o outro módulo é conectado à controladora de voo na porta ** TELEM1 **, como mostra a figura abaixo.
 
+![px4_telemetry_radio](/docs/img/px4_telemetry_radio.jpg)
+
 > [!NOTE]
-> A extremidade do cabo que vai na controladora possui um conector de 6 pinos, porém apenas 4 são utilizados, como mostra a imagem abaixo. Caso não possua esse cabo, você pode fazer uma adaptação, respeitando o pinout da porta.
+> A extremidade do cabo que vai na controladora possui um conector de 6 pinos, porém apenas 4 são utilizados. Caso não possua esse cabo, você pode fazer uma adaptação, respeitando sempre o pinout.
 
-[Imagem mostrando o tipo de conexão]
-
-Confira um exemplo de uso em [link para o exemplo].
+Confira um exemplo de uso aqui (add hiperlink em aqui).
 
 ### Problemas enfrentados
 
