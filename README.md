@@ -16,7 +16,7 @@ A sua utilização se dá pelo fato de possuir um grande alcance, podendo chegar
 
 ### Conexão
 
-O módulo com entrada USB é conectado a algum computador, enquanto o outro módulo é conectado à controladora de voo na porta ** TELEM1 **, como mostra a figura abaixo.
+O módulo com entrada USB é conectado a algum computador, enquanto o outro módulo é conectado à controladora de voo na porta **TELEM1**, como mostra a figura abaixo.
 
 ![px4_telemetry_radio](/docs/img/px4_telemetry_radio.jpg)
 
@@ -29,5 +29,6 @@ Confira um exemplo de uso aqui (add hiperlink em aqui).
 
 
 ## ESP8266
+
 
 ## Sugestões
