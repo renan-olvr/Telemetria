@@ -21,7 +21,7 @@ O módulo com entrada USB é conectado a algum computador, enquanto o outro mód
 ![px4_telemetry_radio](/docs/img/px4_telemetry_radio.jpg)
 
 > [!NOTE]
-> A extremidade do cabo que vai na controladora possui um conector de 6 pinos, porém apenas 4 são utilizados. Caso não possua esse cabo, você pode fazer uma adaptação, respeitando sempre o pinout.
+> A extremidade do cabo que vai na controladora possui um conector de 6 pinos, porém apenas 4 fios são utilizados. Caso não possua esse cabo, você pode fazer uma adaptação, respeitando sempre o pinout.
 
 Confira um exemplo de uso aqui (add hiperlink em aqui).
 
