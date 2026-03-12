@@ -43,7 +43,7 @@ O modelo utilizado é o [ESP32_DevKitC_V4][https://docs.espressif.com/projects/e
 
 Conecte a UART do ESP32 à UART 3.3V da controladora de vôo (nesse caso, a px4). Siga o esquema de ligação abaixo.
 
-![telem2-layout](/docs/ESP32/telem2_layout.png)
+![telem2-layout](/docs/ESP32/img/telem2_layout.png)
 
 >[!CAUTION]
 > O ESP32 deve sempre ser conectado à porta **TELEM2**, pois ela é a única a fornecer 3.3V.
