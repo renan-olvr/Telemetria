@@ -45,8 +45,8 @@ Conecte a UART do ESP32 à UART 3.3V da controladora de vôo (nesse caso, a px4)
 
 ![telem2-layout](/docs/ESP32/img/telem2_layout.png)
 
->[!CAUTION]
-> O ESP32 deve sempre ser conectado à porta **TELEM2**, pois ela é a única a fornecer 3.3V.
+>[!ATENTION]
+> O ESP32 deve sempre ser conectado à porta **TELEM2**.
 
 ### Problemas enfrentados
 
