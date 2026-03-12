@@ -28,7 +28,28 @@ Confira um exemplo de uso aqui (add hiperlink em aqui).
 ### Problemas enfrentados
 
 
-## ESP8266
+## ESP32
+
+Drone Bridge para ESP32 é um solução desenvolvida para telemetria de baixa taxa de dados, que se encaixa perfeitamente ao nosso propósito, permitindo converter uma transmissão serial totalmente transparente para WiFi.
+Ele pode rodar em praticamente todas as placas de desenvolvimento ESP32. Recomenda-se o uso de placas e módulos com conector para antena externa, pois estes oferecem maior alcance.
+
+[imagem DroneBridge-ESP32];
+
+O modelo utilizado é o [ESP32_DevKitC_V4][https://docs.espressif.com/projects/esp-idf/en/release-v4.2/esp32/hw-reference/esp32/get-started-devkitc.html], que pode ser visto abaixo.
+
+[imagem esp32devkit]
+
+### Conexão
+
+Conecte a UART do ESP32 à UART 3.3V da controladora de vôo (nesse caso, a px4). Siga o esquema de ligação abaixo.
+
+[imagem esquema ligação]
+
+
+>[!CAUTION]
+> O ESP32 deve sempre ser conectado à porta **TELEM2**, pois ela é a única a fornecer 3.3V.
+
+
 
 
 ## Sugestões
